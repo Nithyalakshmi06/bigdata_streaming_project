@@ -33,12 +33,12 @@ bigdata_streaming
 
 ### Kafka Topic Messages
 ![Kafka server](kafka_server.png)
-
+![kafka_zookeeper](kafka_zookeeper.png)
 ### Spark Streaming Output
-![Spark Streaming](screenshots/spark_streaming.png)
+![Spark Streaming](spark_streaming.png)
 
 ### HDFS Stored Logs
-![HDFS Logs](screenshots/hdfs_logs.png)
+![HDFS Logs](hdfs_logs.png)
 
 ### SQL Query Output
-![SQL Output](screenshots/sql_output.png)
+![SQL Output](sql_output.png)
