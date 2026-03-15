@@ -32,7 +32,7 @@ bigdata_streaming
 ## Project Screenshots
 
 ### Kafka Topic Messages
-![Kafka Topic](screenshots/kafka_topic.png)
+![Kafka server](kafka_server.png)
 
 ### Spark Streaming Output
 ![Spark Streaming](screenshots/spark_streaming.png)
